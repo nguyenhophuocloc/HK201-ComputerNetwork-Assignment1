@@ -1,0 +1,4 @@
+Split terminal:
+First terminal: python Server.py 3000
+Second terminal: python ClientLauncher.py localhost 3000 101 movie.Mjpeg
+or 		 python ClientLauncher.py "IP" 3000 101 movie.Mjpeg
